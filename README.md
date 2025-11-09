@@ -59,7 +59,6 @@ Amazon_Sales_Analysis/
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
